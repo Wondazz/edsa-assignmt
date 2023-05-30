@@ -1,3 +1,3 @@
-# edsa-assignmt
+# My assignmt
 # Miniproject
 Miniproject
